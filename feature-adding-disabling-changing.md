@@ -1,4 +1,4 @@
-<!--- ✔Atom Community PR Features -->
+<!--- ✔Atom Community PR Features --->
 <!--- Thanks for creating this feature changing PR. Please do the following: --->
 <!--- Checked for any duplicates: https://github.com/atom-community/atom/issues --->
 ### PR Description
