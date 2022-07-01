@@ -3,6 +3,7 @@
 <!--- Link an issue --->
 <!--- Reproduce the problem in Atom Community Safe Mode - https://flight-manual.atom.io/hacking-atom/sections/debugging/#using-safe-mode --->
 <!--- Have read original Atom's debugging guide: https://flight-manual.atom.io/hacking-atom/sections/debugging --->
+<!--- Checked for any duplicates: https://github.com/atom-community/atom/issues --->
 - Issue Linked to: #
 ### PR Description
 <!--- Include as much information as you can. If you don't have enough information to have here, this PR may be closed at the maintainer's discretion. --->
