@@ -1,4 +1,4 @@
-<!--- ✔Atom Community PR Bugs -->
+<!--- ✔Atom Community PR Bugs --->
 <!--- Thanks for creating this bug fix PR. Please do the following: --->
 <!--- Link an issue --->
 <!--- Reproduce the problem in Atom Community Safe Mode - https://flight-manual.atom.io/hacking-atom/sections/debugging/#using-safe-mode --->
